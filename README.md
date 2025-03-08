@@ -26,3 +26,38 @@ Healthy smiles are best of all!
 
 ---
 *A celebration of pediatric dental care and the joy of helping children maintain their beautiful smiles.*
+
+# Boca Raton Weather Report
+*Last Updated: March 8, 2025 2:53 PM EST*
+
+## Current Conditions
+- **Temperature:** 81°F (27°C)
+- **Conditions:** Fair
+- **Humidity:** 57%
+- **Wind:** SE 12 mph
+- **Barometer:** 29.97 in (1014.8 mb)
+- **Dewpoint:** 64°F (18°C)
+- **Visibility:** 10.00 miles
+- **Heat Index:** 83°F (28°C)
+
+## Extended Forecast
+
+### Today
+- **This Afternoon:** Sunny, high near 84°F, South wind around 9 mph
+- **Tonight:** Clear, low around 62°F, South wind around 6 mph becoming calm
+
+### Tomorrow (Sunday)
+- Sunny, high near 87°F
+- Light south wind becoming southwest 5-10 mph
+
+### Monday
+- 60% chance of showers and thunderstorms
+- High near 85°F
+- Breezy conditions
+- South wind 8 to 17 mph, with gusts up to 23 mph
+
+### Tuesday
+- Sunny, high near 76°F
+- North wind 9 to 11 mph
+
+*Weather data sourced from National Weather Service*
